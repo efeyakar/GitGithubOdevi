@@ -1,0 +1,9 @@
+				Soru:
+
+Git deposu oluşturmanın iki farklı yolunu açıklayın.(git init ve git clone.)
+				
+				Cevap:
+
+Git init ile local da bulunan dosyayı git ile bağlantısını kurmamızı sağlar 
+'git init' yazarsak mecvut klasore git bağlantısı yapar. Eğer 'git init dosya adı' yaparsak yazdığımız dosya adında klasor açar ve git bağlantısını oraya yapar.
+Git clone ise Github'ta bulunan bir repository'i bilgisayarınıza kopyalayamamızı sağlar.

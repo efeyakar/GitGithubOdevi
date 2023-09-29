@@ -1,0 +1,7 @@
+					Soru:
+
+Git deposundaki tüm değişiklikleri gösteren komut nedir? 
+
+					Cevap:
+
+'git log' ile git deposundaki bütün değişiklikleri görebiliriz.

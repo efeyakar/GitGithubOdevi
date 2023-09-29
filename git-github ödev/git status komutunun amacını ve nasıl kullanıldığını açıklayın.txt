@@ -1,0 +1,7 @@
+				Soru:
+
+git status komutunun amacını ve nasıl kullanıldığını açıklayın.
+
+				Cevap:
+
+Üzerinde çalıştığımız Repository'nin o anki durumunu gösterir. Eğer dosya adı kırmızı çıkarsa commit değişikliğin git'e eklenmediği anlamına gelir. Dosya adı yeşil olursa git'e eklendiğini ancak commit edilmediği anlamına gelir.
