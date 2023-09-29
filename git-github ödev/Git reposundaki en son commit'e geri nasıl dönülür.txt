@@ -1,8 +1,0 @@
-					Soru:
-
-Git reposundaki en son commit'e geri nasıl dönülür? 
-
-					Cevap:
-
-git checkout ile komutu ile son commite geri dönebiliriz. Peki bunu nasıl yaparız? 'git commit -- dosya adı' şeklinde yazarsak o dosyayı son commite geri getirir. Bütün dosyaları geri almak isterseniz
-'git reset --hard HEAD' ile alabilirsiniz. Ama unutmayın bu işlemin geri dönüşü olmaz.

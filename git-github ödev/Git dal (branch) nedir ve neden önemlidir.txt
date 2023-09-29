@@ -1,7 +1,0 @@
-					Soru:
-
-Git dal (branch) nedir ve neden önemlidir?
-
-					Cevap:
-
-Git branch, Mevcut branch’leri listelemeye veya yeni bir branch oluşturmaya yarar. -a parametresi ile tüm branch’ler listelenir. -d parametresi ile bir branch silinir. Bir isim verilirse o isimde yeni bir branch oluşturulur.Ana branch main olarak adlandırılır. Peki neden önemlidir?. Bir projeyi birden fazla kişi yapıyorsa yapılan işlemin takibini kolaylaştırır. Herkese ayrı branch oluşturulur ve kimsenin yaptığı değişiklik diğerinin değişikliğini bozmaz.

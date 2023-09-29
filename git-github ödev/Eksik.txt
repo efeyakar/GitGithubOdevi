@@ -1,7 +1,0 @@
-					Soru:
-
-Conflict (çakışma) nedir ve bir çakışmayı nasıl çözersiniz?
-
-					Cevap:
-
-Eror 404

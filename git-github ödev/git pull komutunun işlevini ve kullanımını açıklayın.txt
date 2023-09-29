@@ -1,7 +1,0 @@
-					Soru:
-
-git pull komutunun işlevini ve kullanımını açıklayın.
-
-					Cevap:
-
-Uzak sunucudaki değişiklikleri yerel repo’ya almaya yarar. origin ve main parametreleri ile hangi sunucudan ve hangi branch’ten alınacağı belirlenir.

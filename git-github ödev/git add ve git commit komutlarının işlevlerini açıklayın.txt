@@ -1,9 +1,0 @@
-					Soru:
-
-git add ve git commit komutlarının işlevlerini açıklayın.
-
-					Cevap:
-
-Git commit , Sürüm kontrolüne alınan dosyaları kaydetmeye yarar. -m parametresi ile commit mesajı eklenebilir.
-
-Git add , Belirtilen dosyaları veya klasörleri sürüm kontrolüne almaya yarar.
