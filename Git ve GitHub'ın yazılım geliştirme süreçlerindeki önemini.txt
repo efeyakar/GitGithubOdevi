@@ -1,0 +1,8 @@
+				Soru:
+
+Git ve GitHub'ın yazılım geliştirme süreçlerindeki önemini açıklayın.
+
+				Cevap:
+
+
+ Git bir versiyon kontrol sistemidir.Github ise git temellerini kullananan bulut tabanlı bir hizmettir.Peki bunu nasıl yapıyor? Git her satırdaki kelimeleri birebir kontrol ederek karşılaştırıyor ve farklılıkları bulup size gösteriyor. Yazılım geliştirme sürecinde yazılımcılara çok büyük kolaylık sağlar. Çünkü yazılımcılar yaptıkları her işlemi git aracılığı ile github'a eklediklerinde her güncellemeyi tutar ve kim ne zaman ne değişiklik yapmış görebilirsiniz.Bunun yanında açık kaynak bir uygulamanız var ise insanlar yazılımınızı geliştirebilir,hataları bulup düzeltebilir. Tabi siz onay vermediğiniz sürece güncelleme olmaz.

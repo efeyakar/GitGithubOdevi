@@ -1,0 +1,7 @@
+					Soru:
+
+Bir dosyanın eski bir sürümünü nasıl görüntülersiniz? (git show kullanarak açıklayın.)
+
+					Cevap:
+
+Öncelikle 'git log' komutu ile bütün commitleri ekrana getiriyoruz. Daha sonra bakmak istediğiniz commitin commit id'sini kopyalıyoruz. Daha sonra 'git show commit_id' komutu ile görebiliriz.

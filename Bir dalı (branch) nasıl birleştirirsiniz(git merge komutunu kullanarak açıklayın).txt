@@ -1,0 +1,7 @@
+					Soru:
+
+Bir dalı (branch) nasıl birleştirirsiniz? (git merge komutunu kullanarak açıklayın.)
+
+					Cevap:
+
+Belirtilen branch’i mevcut branch ile birleştirmeye yarar. Git checkout ile mevcut branch'a geçiş yapıyoruz daha sonra 'git marge birleştireceğiniz_branch_adı' ile işlem yapılmış oluyor. 

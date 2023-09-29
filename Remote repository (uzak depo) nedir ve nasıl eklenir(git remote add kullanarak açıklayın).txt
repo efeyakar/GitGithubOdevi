@@ -1,0 +1,7 @@
+					Soru:
+
+Remote repository (uzak depo) nedir ve nasıl eklenir? (git remote add kullanarak açıklayın.)
+
+					Cevap:
+
+Uzak sunucuları listelemeye veya eklemeye yarar. -v parametresi ile detaylı listeleme yapılabilir. add parametresi ile yeni bir sunucu eklenebilir. Örneğin 'git remote add origin https://github.com/username/project.git'

@@ -1,0 +1,9 @@
+									Soru:
+
+GitHub'da bir projenin Issues ve Pull Requests (Çekme İstekleri) sekmesinin kullanımını açıklayın.
+
+									Cevap:
+
+Projenin Issues kısmını not defteri gibi düşünebilirsiniz. Buraya gözünüze çarpan hataları, yapılacak işleri, kısacası her şeyi yazabilirsiniz.
+
+projenin Pull Request(Çekme istekleri) bir projede yaptığınız değişiklikleri ana kodda birleştirmek için burayı kullanırız.

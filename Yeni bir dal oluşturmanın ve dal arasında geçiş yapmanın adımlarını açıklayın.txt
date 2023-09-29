@@ -1,0 +1,7 @@
+					Soru:
+
+Yeni bir dal oluşturmanın ve dal arasında geçiş yapmanın adımlarını açıklayın.
+
+					Cevap:
+
+'git branch branch_adı' ile yeni branch oluşturulur. 'git checkout branch_adı' ile de yazdığımız branch adına geçiş yapmamız sağlanır.
